@@ -1,4 +1,4 @@
-## Principais comandos utilizados para gerenciar o versionamento de código no Git:
+## Principais comandos para gerenciar o versionamento de código no Git Bash:
 
  
 - **git init**
