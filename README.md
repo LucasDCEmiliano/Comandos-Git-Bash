@@ -40,3 +40,23 @@ O comando **git push -u origin** publica as alterações no repositório remoto.
 - **git pull**
 
 O comando **git pull** baixa as alterações no repositório remoto.
+
+- **git checkout -b <branch name>**
+
+O comando **git checkout -b <branch name>** cria uma nova branch.
+
+- **git checkout <branch-name>**
+
+O comando **git checkout <branch name>** alterna entre as branchs.
+
+- **git branch -d <branch name>**
+
+O comando **git branch -d <branch name>** exclui uma branch.
+
+- **git merge**
+
+O comando **git merge** é usado para mesclar branchs
+
+- **git tag**
+
+O comando **git tag** é usado para fazer marcações.
