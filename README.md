@@ -55,7 +55,7 @@ O comando **git branch -d <branch name>** exclui uma branch.
 
 - **git merge**
 
-O comando **git merge** é usado para mesclar branchs
+O comando **git merge** é usado para mesclar branchs.
 
 - **git tag**
 
